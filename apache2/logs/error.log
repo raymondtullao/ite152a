@@ -1,6 +1,4 @@
-[Fri Feb 02 15:11:45.631785 2018] [mpm_winnt:notice] [pid 3584:tid 476] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
-[Fri Feb 02 15:11:45.631785 2018] [mpm_winnt:notice] [pid 3584:tid 476] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
-[Fri Feb 02 15:11:45.631785 2018] [core:notice] [pid 3584:tid 476] AH00094: Command line: 'C:\\Users\\ITE152A-36\\Desktop\\ITE15/apache2/bin/httpd_usbwv8.exe -d C:/Users/ITE152A-36/Desktop/ITE15/apache2'
-[Fri Feb 02 15:11:45.644798 2018] [mpm_winnt:notice] [pid 3584:tid 476] AH00418: Parent: Created child process 688
-[Fri Feb 02 15:11:45.987992 2018] [mpm_winnt:notice] [pid 688:tid 464] AH00354: Child: Starting 64 worker threads.
-[Fri Feb 02 15:11:55.394145 2018] [:error] [pid 688:tid 1020] [client ::1:17162] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\\Users\\ITE152A-36\\Desktop\\ITE15\\root\\index.php on line 47
+[Fri Feb 09 14:57:59.391576 2018] [mpm_winnt:notice] [pid 3752:tid 476] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Fri Feb 09 14:57:59.391576 2018] [mpm_winnt:notice] [pid 3752:tid 476] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Fri Feb 09 14:57:59.391576 2018] [core:notice] [pid 3752:tid 476] AH00094: Command line: 'C:\\Users\\ITE152A-36\\Desktop\\ite152a/apache2/bin/httpd_usbwv8.exe -d C:/Users/ITE152A-36/Desktop/ite152a/apache2'
+[Fri Feb 09 14:57:59.420092 2018] [mpm_winnt:notice] [pid 3752:tid 476] AH00418: Parent: Created child process 44
